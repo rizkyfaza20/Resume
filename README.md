@@ -1,2 +1,2 @@
-# cv.github.io
+# Resume
 Rizky Faza - System Administrator
